@@ -44,7 +44,7 @@ Create one R script called run_analysis.R that does the following:
 15. Combining the train and test Dataset
 16. Using ddply function to apply mean to each subset of data frame
 17. Include activity description by merging
-18. Formattig the header and output the tidy data to a Table
+18. Formatting the header and output the tidy data to a Table
 
 ## How to run the R script
 
